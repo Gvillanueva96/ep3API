@@ -1,31 +1,31 @@
 {
     "sliders": [
         {
-            "idimg": 1,
+            "idimg": "1",
             "title": "Un clásico RENOVADO",
             "text": "991 Turbo, excepcional en la ruta",
             "banner": "https://demo.themesuite.com/automotive/images/slide-show1.jpg"
         },
         {
-            "idimg": 2,
+            "idimg": "2",
             "title": "Cayanne S",
             "text": "Familiar, confortable, y veloz",
             "banner": "https://demo.themesuite.com/automotive/images/slide-show2.jpg"
         },
         {
-            "idimg": 3,
+            "idimg": "3",
             "title": "El SUV del futuro",
             "text": "Nueva Cayenne GTS, veloz y enigmático.",
             "banner": "https://demo.themesuite.com/automotive/images/slide-show3.jpg"
         },
         {
-            "idimg": 4,
+            "idimg": "4",
             "title": "Excelencia Alemana",
             "text": "La nueva gama deportiva de Porsche",
             "banner": "https://demo.themesuite.com/automotive/images/slide-show4.jpg"
         },
         {
-            "idimg": 5,
+            "idimg": "5",
             "title": "EL REY DEL VERANO",
             "text": "Llego el nuevo cabriolet a la familia Porsche",
             "banner": "https://demo.themesuite.com/automotive/images/slide-show5.jpg"
