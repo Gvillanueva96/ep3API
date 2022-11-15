@@ -30,5 +30,47 @@
             "text": "Llego el nuevo cabriolet a la familia Porsche",
             "banner": "https://demo.themesuite.com/automotive/images/slide-show5.jpg"
         }
+    ],
+    
+    "categorias": [
+        {
+            "idcategoria": "1",
+            "nombre": "Deportivos",
+            "descripcion": "Velocidad y estilo.",
+        },
+        {
+            "idcategoria": "2",
+            "nombre": "SUVs",
+            "descripcion": "Confort para la familia.",
+        },
+        {
+            "idcategoria": "3",
+            "nombre": "Clasicos",
+            "descripcion": "Para los verdaderos puristas".,
+        },
+        {
+            "idcategoria": "4",
+            "nombre": "Competición",
+            "descripcion": "Solo para pilotos de carreras.",
+        }
+        
+    ],
+    
+    "vehiculos": [
+        {
+            "idvehiculo": "1",
+            "idcategoria": "1",
+            "modelo": "Porsche 991 Carrera 4S",
+            "precio": "12,0000",
+            "carroceria": "Coupe",
+            "motor": "V8 1.6L",
+            "transmision": "Manual",
+            "puertas": "2",
+            "garantia": "3 años",
+            "fabricacion": "2008",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, laboriosam mollitia. Enim velit, at molestiae consequuntur voluptates, earum dignissimos harum, vel beatae repellat quia ullam aperiam temporibus? Eligendi, ab reprehenderit."
+        },
+        
+        
     ]
 }
